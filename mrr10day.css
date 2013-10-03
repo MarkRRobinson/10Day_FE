@@ -1,0 +1,65 @@
+body {
+	background-color: #4c4c4c;
+	background-image: url(http://www.mmarkk.com/images/tarsh.jpg);
+	color: #333;	
+	padding: 200px;	
+	width: 540px;
+	margin: 0px auto;
+	font-family: Georgia, serif;
+	font-size: 14px;
+	color: #666;
+	line-height:32px;
+	}
+
+h1 {
+	font-family: georgia, serif;
+	font-weight: 200;
+	font-size: 25px;
+	text-transform: uppercase;
+	letter-spacing: 25px;
+	color: #d72f15;
+	}
+	
+	
+h2 {
+	font-family: helvetica, arial, sans-serif;
+	font-weight: 100;
+	font-size: 20px;
+	color: #1ba1c2;
+	}
+	
+		
+.h3 {
+	font-family: helvetica, arial, sans-serif;
+	font-weight: 700;
+	font-size: 15px;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+	color: #1e8573;
+	}
+	
+h4 {
+	font-family: helvetica, arial, sans-serif;
+	font-weight: 400;
+	font-size: 12px;
+	color: #e23ad8;
+	}
+		
+a {
+	color: #666;
+	font-weight: 700;
+}
+
+a:link { 
+	text-decoration: none;
+	}
+	
+a:visited { 
+	color: #222;
+	}
+	
+a:hover { 
+	color: #fff;
+	background-color: #39afa1;
+	text-decoration: none;
+	}	
